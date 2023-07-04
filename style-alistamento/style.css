@@ -83,10 +83,11 @@ section.module.parallax-1{
 }
 
 section.module.parallax-2{
-    background-image: url("/img/wallpaperbetter.jpg");
+    background-image: url("https://marcelinovieira.rn.gov.br/fotos/190/Capa190.jpg");
+    
 }
 section.module.parallax-3{
-    background-image: url("/img/teahub.io-bosque-wallpaper-652343.jpg");
+    background-image: url("/imgs/fotoetapa1.PNG");
 }
 
 section.module.parallax h1{
@@ -97,23 +98,19 @@ section.module.parallax h1{
     text-transform: uppercase;
 }
 
-#The-dark{
-    color: black;
+#Etapa-1{
+    color: gre;
 }
 
-#The-life{
+#Requisitos{
     color: yellow;
 }
 
 #Alistamento-Militar{
     color: rgb(1, 182, 1);
-   
-    
-   
-    
 }
 
-#Life{
+#Requisitos-1{
     color: yellowgreen;
     
 }
